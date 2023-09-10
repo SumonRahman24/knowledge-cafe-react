@@ -1,22 +1,38 @@
 [
   {
-    "blogs-img": "https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/002/970/original/What_is_front-end_development.png?1647012148",
-    "blogs-title": "Front End Developer Interview Questions for Freshers",
+    "id": 1,
+    "img": "https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/002/970/original/What_is_front-end_development.png?1647012148",
+    "heading": "Front End Developer Interview Questions for Freshers",
     "author": {
       "img": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "name": "Mr. Ranju",
-      "post-date": "Mar 14",
-      "days": "(4 days ago)"
+      "date": "Mar 14",
+      "days": "(4 days ago)",
+      "read_time": 5
     }
   },
   {
-    "blogs-img": "https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/002/970/original/What_is_front-end_development.png?1647012148",
-    "blogs-title": "Front End Developer Interview Questions for Freshers",
+    "id": 2,
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*HjZYlbrun4mP21tYYrsH_Q.png",
+    "heading": "How to get your first job as a self-taught programmer",
     "author": {
-      "img": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-      "name": "Mr. Ranju",
-      "post-date": "Mar 14",
-      "days": "(4 days ago)"
+      "img": "https://images.unsplash.com/photo-1619895862022-09114b41f16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "name": "Jhankhar Ahmed",
+      "date": "July 20",
+      "days": "(3 days ago)",
+      "read_time": 12
+    }
+  },
+  {
+    "id": 3,
+    "img": "https://www.css.edu/wp-content/uploads/how-to-become-a-software-engineer-1.jpg",
+    "heading": "How to Become a Software Engineer",
+    "author": {
+      "img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+      "name": "Rabbil hasan",
+      "date": "Jan 21",
+      "days": "(2 days ago)",
+      "read_time": 10
     }
   }
 ]

@@ -1,7 +1,11 @@
+import Header from "./components/Header";
+import LoadData from "./components/LoadData";
+
 const App = () => {
   return (
     <div>
-      <h2>hello</h2>
+      <Header />
+      <LoadData />
     </div>
   );
 };
